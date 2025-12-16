@@ -40,3 +40,9 @@ Foram desenvolvidos scripts em Python para simular a inserção e leitura de gra
 ├── scripts/          # Scripts de automação, testes de inserção e leitura nas 3 tecnologias análisadas. 
 ├── resultados/       # Dados obtidos da execução dos testes
 └── README.md         # Resumo do projeto
+
+## Autora
+
+**Giulia Salles Marinho**
+* [LinkedIn](https://www.linkedin.com/in/giulia-salles)
+* 🎓 Formanda em Sistemas de Informação (UEA)

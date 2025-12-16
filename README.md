@@ -31,6 +31,13 @@ Foram desenvolvidos scripts em Python para simular a inserção e leitura de gra
 * **Desempenho (Leitura):** O **PostgreSQL** apresentou a melhor performance para leitura em lote.
 * **Segurança:** A análise comparativa destacou os trade-offs entre a rapidez dos bancos tradicionais e a segurança criptográfica da blockchain.
 
+## Autora
+
+**Giulia Salles Marinho**
+* [LinkedIn](https://www.linkedin.com/in/giulia-salles)
+* 🎓 Formanda em Sistemas de Informação (UEA)
+
+
 ## Estrutura do Repositório
 
 ```bash
@@ -41,8 +48,4 @@ Foram desenvolvidos scripts em Python para simular a inserção e leitura de gra
 ├── resultados/       # Dados obtidos da execução dos testes
 └── README.md         # Resumo do projeto
 
-## Autora
 
-**Giulia Salles Marinho**
-* [LinkedIn](https://www.linkedin.com/in/giulia-salles)
-* 🎓 Formanda em Sistemas de Informação (UEA)
